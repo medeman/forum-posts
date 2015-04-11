@@ -63,6 +63,8 @@ Stand: 11.04.2015
 
 Eine aktuellere Version ist unter Umständen [hier](https://github.com/medeman/forum-posts/blob/master/posts/gaming-pc-guide.md) zu finden.
 
+Verbesserungsvorschläge und/oder Anfragen bezüglich weiteren Preisklassen können gerne im [offiziellen Thread](http://www.forumla.de/f-pc-kaufberatung-131/t-self-made-gaming-pcs-in-allen-preisbereichen-223260) gestellt werden.
+
 ![http://creativecommons.org/licenses/by-nc-sa/4.0/](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](http://creativecommons.org/licenses/by-nc-sa/4.0/).
