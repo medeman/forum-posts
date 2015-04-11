@@ -61,7 +61,7 @@ Die Preise von Intel-CPUs sind momentan leider sehr hoch. In dieser Preisklasse 
 
 Stand: 11.04.2015
 
-Eine aktuellere Version ist unter Umständen [hier]() zu finden.
+Eine aktuellere Version ist unter Umständen [hier](https://github.com/medeman/forum-posts/blob/master/posts/gaming-pc-guide.md) zu finden.
 
 ![http://creativecommons.org/licenses/by-nc-sa/4.0/](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
