@@ -21,7 +21,7 @@ Dieses Modell soll preislich den beiden Konsolen Konkurrenz bieten können und d
   * Bessere Kühlung (eröffnet Potenzial zum Übertakten der CPU)
 
 ### Geld sparen
-* Zurzeit keine Optionen
+* Zurzeit keine Optionen.
 
 ## Tier 2 - 800€
 Dieses Modell soll gute Performance bei hohen (bis maximalen) Einstellungen und 1920x1080 liefern.
@@ -84,7 +84,7 @@ Für Office, dem surfen im Web und anderen alltäglichen Aufgaben ist die Leistu
 
 ---
 
-Stand: 20.04.2015
+Stand: 20.04.2015 (Tier 1: 14.10.2015)
 
 Eine aktuellere Version ist unter Umständen [hier](https://github.com/medeman/forum-posts/blob/master/posts/gaming-pc-guide.md) zu finden.
 
